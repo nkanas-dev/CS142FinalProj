@@ -1,0 +1,2 @@
+xbox,gaming console made by microsoft
+ps5,gaming console made by Sony
